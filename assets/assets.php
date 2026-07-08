@@ -7,5 +7,5 @@ include get_template_directory() . '/assets/includes/js-functions.php';
 include get_template_directory() . '/assets/includes/modulos-functions.php';
 include get_template_directory() . '/assets/includes/widgets-functions.php';
 include get_template_directory() . '/assets/includes/menu-functions.php';
-include get_template_directory() . '/assets/modulos/modulo-video/core-video.php';
+include get_template_directory() . '/assets/modulos/modulo-cancion/core-cancion.php';
 //include get_template_directory() . '/assets/modulos/modulo-hero/core-modulo-hero.php';
